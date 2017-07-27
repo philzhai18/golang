@@ -1,12 +1,14 @@
 # golang
 golang study &amp; tests
 
-###lang basics
+### lang basics
 
-###libs
+### libs
 
-###dev tools/env setup
+### dev tools/env setup
+- IDEs
+- editors
 
-###use scenarios
+### use scenarios
 
-###orthers
+### orthers
