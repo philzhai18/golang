@@ -2,6 +2,8 @@
 golang study &amp; tests
 
 ### lang basics
+#### string
+1. string.Contains   similar c strstr
 
 ### libs
 
